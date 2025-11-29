@@ -4,7 +4,7 @@ I'm an IT professional living in Berlin, DE and specializing in **Endpoint Manag
 
 ### 🔧 My Tech Stack
 
-Here are some of the languages I'm working with at:
+Here are some of the languages I'm working with:
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
