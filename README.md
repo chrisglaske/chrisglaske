@@ -1,28 +1,24 @@
-### Hi there, I'm Chris 👋
+# Hi there, I'm Chris! 👋
 
-I'm an IT professional living in Berlin, DE and specializing in **Endpoint Management** and **Automation**. I'm passionate about building streamlined, scalable solutions to manage and secure device fleets effectively. My goal is to leverage code to solve complex operational challenges.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F88FF&width=435&lines=Endpoint+Management+Specialist;Automation+Enthusiast)](https://git.io/typing-svg)
 
-### 🔧 My Tech Stack
+Bridging the gap between **Endpoint Management** and **Automationg**.
 
-Here are some of the languages I'm working with at:
+Based in Berlin 🇩🇪, my work focuses on building streamlined, scalable solutions to manage and secure device fleets effectively.
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  </a>
-  <a href="https://www.zsh.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Zsh-303030?style=for-the-badge&logo=zsh&logoColor=white" alt="zsh"/>
-  </a>
-  <a href="https://www.swift.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="swift"/>
-  </a>
-  <a href="https://golang.org" target="_blank">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go"/>
-  </a>
-</p>
+---
 
-### 📫 How to Reach Me
+| **Core Languages** | **Focus Areas** |
+| :--- | :--- |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" /> | 🍏 Apple Device Management |
+| <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> | 🤖 IT Process Automation |
 
-You can find more about my work on my website:
+---
 
-* 🌐 [glaske.co](https://glaske.co)
+### 🤝 Let's Connect
+
+I’m always open to discussing new automation strategies, Mac admin challenges, or just grabbing a coffee in Berlin.
+
+[🌐 **Visit my Website**](https://glaske.co)
+
+</div>
