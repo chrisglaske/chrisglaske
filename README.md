@@ -4,17 +4,20 @@ I'm an IT professional living in Berlin, DE and specializing in **Endpoint Manag
 
 ### 🔧 My Tech Stack
 
-Here are some of the languages I'm working with:
+Here are some of the languages I'm working with at:
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  <a href="https://www.zsh.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Zsh-303030?style=for-the-badge&logo=zsh&logoColor=white" alt="zsh"/>
   </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  <a href="https://www.swift.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="swift"/>
+  </a>
+  <a href="https://golang.org" target="_blank">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go"/>
   </a>
 </p>
 
