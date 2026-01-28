@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F88FF&width=435&lines=Endpoint+Management+Specialist;Automation+Enthusiast)](https://git.io/typing-svg)
 
-Bridging the gap between **Endpoint Management** and **Automationg**.
+> ⚡ **Bridging the gap between Endpoint Management and Automation.**
 
 Based in Berlin 🇩🇪, my work focuses on building streamlined, scalable solutions to manage and secure device fleets effectively.
 
