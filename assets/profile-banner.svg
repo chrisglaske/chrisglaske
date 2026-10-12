@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Chris Glaske</title>
+  <desc id="desc">Chris's original purple GK monogram, oversized charcoal and terracotta lettering on paper, and green, cyan, and orange blocks for devices, workflows, and Berlin.</desc>
+  <!--
+  THESIS: The GitHub chapter of glaske.co, not a separate brand or a wall of badges.
+  OWN-WORLD: Paper, charcoal, terracotta, purple GK monogram, and the site's pastel path colors.
+  STORY: Meet Chris, understand endpoint management and automation, follow the website link.
+  FIRST VIEWPORT: Greeting and two-line headline left, GK monogram right, pastel focus strip below.
+  FORM: Website identity inherited at the user's direction; static cover and native Markdown.
+  -->
+  <rect width="960" height="420" rx="7" fill="#ECEBE4"/>
+  <g font-family="Avenir Next, Avenir, Arial, sans-serif" font-weight="700" letter-spacing="-2.5">
+    <text x="40" y="108" fill="#293233" font-size="65">Hey, I'm Chris.</text>
+    <text x="40" y="199" fill="#A04430" font-size="74">I manage Macs</text>
+    <text x="40" y="277" fill="#A04430" font-size="74">and build things.</text>
+  </g>
+  <g transform="translate(686 52) scale(5.6)">
+    <rect width="36" height="36" rx="7" fill="#ECEBE4"/>
+    <path d="M16 8H8v20h12v-9h-7M25 8v20M25 18l8-10M25 18l8 10" stroke="#6843A8" stroke-width="3.5" stroke-linejoin="round"/>
+  </g>
+  <text x="789" y="281" text-anchor="middle" fill="#6843A8" font-family="Avenir Next, Avenir, Arial, sans-serif" font-size="25" font-weight="600">glaske.co ↗</text>
+  <path d="M0 342H960" stroke="#A4AFAC"/>
+  <path d="M0 343H320V420H7Q0 420 0 413Z" fill="#BBD4B5"/>
+  <rect x="320" y="343" width="320" height="77" fill="#A6D9DF"/>
+  <path d="M640 343H960V413Q960 420 953 420H640Z" fill="#FFB47D"/>
+  <g font-family="Avenir Next, Avenir, Arial, sans-serif" font-size="25" font-weight="600">
+    <text x="32" y="389" fill="#263E22">Apple devices.</text>
+    <text x="352" y="389" fill="#17343A">Automated workflows.</text>
+    <text x="672" y="389" fill="#302218">Made in Berlin.</text>
+  </g>
+</svg>

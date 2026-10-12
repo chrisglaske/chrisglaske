@@ -1,24 +1,24 @@
-# Hi there, I'm Chris! 👋
+[![Chris Glaske — endpoint management meets automation, Berlin](assets/profile-banner.svg)](https://glaske.co)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F88FF&width=435&lines=Endpoint+Management+Specialist;Automation+Enthusiast)](https://git.io/typing-svg)
+Hi, I'm Chris — an **endpoint management specialist and automation enthusiast** based in **Berlin**.
+I build streamlined, scalable solutions to manage and secure device fleets, bridging the gap between endpoint management and automation.
 
-> ⚡ **Bridging the gap between Endpoint Management and Automation.**
+### Devices, workflows, and the code between them.
 
-Based in Berlin 🇩🇪, my work focuses on building streamlined, scalable solutions to manage and secure device fleets effectively.
+**Apple device management** — managing and securing device fleets.
+
+**IT process automation** — streamlining the work around them.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-6843A8?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Swift-6843A8?style=flat-square&amp;logo=swift&amp;logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Go-6843A8?style=flat-square&amp;logo=go&amp;logoColor=white" alt="Go" />
+</p>
 
 ---
 
-| **Core Languages** | **Focus Areas** |
-| :--- | :--- |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" /> | 🍏 Apple Device Management |
-| <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> | 🤖 IT Process Automation |
+### Good things start with a conversation.
 
----
+Automation strategies, Mac admin challenges, or a coffee in Berlin — I'm always happy to connect.
 
-### 🤝 Let's Connect
-
-I’m always open to discussing new automation strategies, Mac admin challenges, or just grabbing a coffee in Berlin.
-
-[🌐 **Visit my Website**](https://glaske.co)
-
-</div>
+**[Explore my website ↗](https://glaske.co)** · [Projects & tools](https://www.glaske.co/tools.html) · [Say hello](https://www.glaske.co/contact.html)
