@@ -1,4 +1,4 @@
-[![Chris Glaske — endpoint management meets automation, Berlin](assets/profile-banner.svg)](https://glaske.co)
+[![Hello, I'm Chris. Devices, workflows, and the code between them. Apple devices, automated workflows, made in Berlin.](assets/profile-banner.png)](https://glaske.co)
 
 Hi, I'm Chris — an **endpoint management specialist and automation enthusiast** based in **Berlin**.
 I build streamlined, scalable solutions to manage and secure device fleets, bridging the gap between endpoint management and automation.
@@ -10,9 +10,9 @@ I build streamlined, scalable solutions to manage and secure device fleets, brid
 **IT process automation** — streamlining the work around them.
 
 <p>
-  <img src="https://img.shields.io/badge/Python-6843A8?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Swift-6843A8?style=flat-square&amp;logo=swift&amp;logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Go-6843A8?style=flat-square&amp;logo=go&amp;logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-2E57C9?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Swift-2E57C9?style=flat-square&amp;logo=swift&amp;logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Go-2E57C9?style=flat-square&amp;logo=go&amp;logoColor=white" alt="Go" />
 </p>
 
 ---
